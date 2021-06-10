@@ -6,8 +6,8 @@
 ## Usage
 
 - Availables commands : 
-- - `make all`
-- - `make one`
-- - `make two`
-- - `make three`
-- - `make clean`
+- - `make install`
+- - `make git`
+- - `make npm`
+- - `make composer`
+- - ` make uninstall`
