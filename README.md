@@ -2,7 +2,7 @@
 
 - Use `@` to supress display in terminal
 - Use `tabs` for indentation
-
+- Using `.env` for configuration
 # Usage
 
 - `make install` - Installation process
