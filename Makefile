@@ -33,7 +33,6 @@ assets:
 	@echo "Compiling assets - OK"
 
 launch:
-	@$(ECHO) $@
 	@echo "App running on IP : ${APP_PORT}"
 	@php -S "${APP_PORT}" -t ./"${REPO}" &> /dev/null
 
